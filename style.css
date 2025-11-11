@@ -27,3 +27,14 @@ p {
 .perfilredondo {
     border-radius: 50%;
 }
+
+
+.texto-hover {
+    color: rgb(187, 0, 28); 
+}
+
+.texto-hover:hover {
+    color: rgb(224, 0, 212);
+}
+
+
